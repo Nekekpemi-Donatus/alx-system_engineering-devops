@@ -1,0 +1,9 @@
+
+t@643f7580ee12:/alx-system_engineering-devops/0x03-shell_variables_expansions#
+
+
+
+
+
+#!/bin/bash
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
